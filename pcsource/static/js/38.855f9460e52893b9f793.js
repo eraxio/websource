@@ -1,0 +1,1 @@
+webpackJsonp([38],{"3l9O":function(e,t,l){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"bridge-history"})},staticRenderFns:[]},r=l("VU/8")(null,n,!1,null,null,null);t.default=r.exports}});
